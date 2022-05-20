@@ -1,0 +1,63 @@
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\bin\Debug\_ConftSoft_.exe.config
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\bin\Debug\_ConftSoft_.exe
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\bin\Debug\_ConftSoft_.pdb
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\bin\Debug\_ConftSoft_.xml
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\Interop.ADODB.dll
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.Form1.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.Resources.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.exe
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.xml
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.pdb
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmEstoque.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmCadastro.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmGerencia.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmPedidos.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\bin\Debug\_ConftSoft_.exe.config
+C:\Users\Aluno\Desktop\_ConftSoft_\bin\Debug\_ConftSoft_.exe
+C:\Users\Aluno\Desktop\_ConftSoft_\bin\Debug\_ConftSoft_.pdb
+C:\Users\Aluno\Desktop\_ConftSoft_\bin\Debug\_ConftSoft_.xml
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\Interop.ADODB.dll
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmCadastro.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmEstoque.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.exe
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.xml
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.pdb
+C:\Users\Aluno\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe.config
+C:\Users\Aluno\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe
+C:\Users\Aluno\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.pdb
+C:\Users\Aluno\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.xml
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\Interop.ADODB.dll
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmCadastro.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmEstoque.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.exe
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.xml
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.pdb
